@@ -4,6 +4,7 @@
 - ⚛️ Atualmente estudando React.
 - 😄 Pronouns: ele/ele.
 - 🤯 Fun fact: uma caixa de fósforo preenchida por nêutrons compactados pesaria 3 bilhões de toneladas.
+- <a href="https://gabrielsacht.github.io/Portifolio/" target="_blank">Portifolio</a>
 
 <div align="center">
   <a href="https://github.com/gabrielsacht">
