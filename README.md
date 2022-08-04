@@ -2,7 +2,7 @@
 
 - 🛠  Open to Work.
 - ⚛️ Atualmente estudando React.
-- 😄 Pronouns: ele/ele.
+- 😄 Pronomes: ele/dele.
 - <a href="https://gabrielsacht.github.io/Portifolio/" target="_blank">Portifolio</a>
 
 <div align="center">
