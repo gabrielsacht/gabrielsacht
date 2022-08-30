@@ -4,6 +4,7 @@
 - ⚛️ Atualmente estudando React.
 - 😄 Pronomes: ele/dele.
 - <a href="https://gabrielsacht.github.io/Portifolio/" target="_blank">Portifolio</a>
+- e-mail para contato: gabrielsachtr@gmail.com
 
 <div align="center">
   <a href="https://github.com/gabrielsacht">
