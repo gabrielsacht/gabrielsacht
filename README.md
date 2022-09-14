@@ -16,7 +16,7 @@
   <img align="center" alt="Gaba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gaba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gaba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gaba-Docker" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png)">
+  <img align="center" alt="Gaba-Docker" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png">
 </div>
 
 ##
