@@ -1,8 +1,7 @@
 ## Olá, meu nome é Gabriel Sacht e seja bem vindo ao meu perfil 👋
 
-- 🛠  Open to Work.
-- ⚛️ Atualmente estudando React.
-- 😄 Pronomes: ele/dele.
+- 💻 Web Development Student at Trybe.
+- ⚙️ I’m learning Back-end Development.
 - <a href="https://gabrielsacht.github.io/Portifolio/" target="_blank">Portifolio</a>
 - e-mail para contato: gabrielsachtr@gmail.com
 
