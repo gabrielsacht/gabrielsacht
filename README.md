@@ -1,8 +1,7 @@
 ## Olá, meu nome é Gabriel Sacht e seja bem vindo ao meu perfil 👋
 
-- 💻 Web Development Student at Trybe.
-- ⚙️ I’m learning Back-end Development.
-- <a href="https://gabrielsacht.github.io/Portifolio/" target="_blank">Portifolio</a>
+- 💻 Full-Stack developer.
+- ⚙️ I’m learning Back-end Development at Trybe.
 - e-mail para contato: gabrielsachtr@gmail.com
 
 <div align="center">
