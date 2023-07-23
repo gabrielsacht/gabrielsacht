@@ -1,7 +1,7 @@
 ## Olá, meu nome é Gabriel Sacht e seja bem vindo ao meu perfil 👋
 
-- 💻 Full-Stack developer.
-- ⚙️ I’m learning Back-end Development at Trybe.
+- 💻 Desenvolvedor Full-Stack.
+- ⚙️ Graduando em Física.
 - e-mail para contato: gabrielsachtr@gmail.com
 
 <div align="center">
